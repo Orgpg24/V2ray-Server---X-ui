@@ -45,5 +45,6 @@ http://your-server-ip:54321
 ```
 🛠 Step 5: Default Login Credentials
 Your default login credentials will be set during installation. Example:
+```bash
 Username: Set during installation
 Password: Set during installation
