@@ -27,12 +27,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 🛠 Step 3: Configure Firewall (UFW Rules)
 To ensure proper access, configure your firewall with the following commands:
+# Change your port if needed
 ```bash
 sudo ufw allow 1024:65535/tcp
 sudo ufw allow 443/tcp
 sudo ufw allow 80/tcp
 sudo ufw enable
-sudo ufw allow 54321  # Change your port if needed
+sudo ufw allow 54321
 
 ```
 🛠 Step 4: Access the X-UI Panel
@@ -44,20 +45,5 @@ http://your-server-ip:54321
 ```
 🛠 Step 5: Default Login Credentials
 Your default login credentials will be set during installation. Example:
-```bash
 Username: Set during installation
 Password: Set during installation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
