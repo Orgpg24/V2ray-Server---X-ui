@@ -4,6 +4,22 @@ Easily install and configure your **V2Ray Server** with the **X-UI Panel** for b
 
 ---
 
+## Download SSH Putty 
+
+```bash
+https://www.puttygen.com/download-putty
+
+```
+
+## Login
+
+Add Your Server Ip >
+```bash
+Login as : root
+password : Your Server pass
+
+```
+
 ## 🛠 Step 1: Update Your System
 
 Run the following command to update and upgrade your server:
