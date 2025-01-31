@@ -4,6 +4,11 @@ Easily install and configure your **V2Ray Server** with the **X-UI Panel** for b
 
 ---
 
+# Tutorial Guide
+
+https://youtu.be/S0F1kr1sr38?si=vgKqiv0Q8FMT5Vaf
+
+
 ## Download SSH Putty 
 
 ```bash
